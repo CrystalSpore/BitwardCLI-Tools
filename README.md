@@ -2,7 +2,7 @@
 aliases/functions for using Bitwarden's CLI in a more streamlined fashion
 
 ## Usage
-Just drop the contents of [`bw.tools`](bw.tools) into your bashrc or zshrc (might work in other shells, but I know these 2 shells are compatible). Run `source` on your rc file (or restart), then you have access to the below commands.
+Just drop the contents of [`bw.tools`](bw.tools.sh) into your bashrc or zshrc (might work in other shells, but I know these 2 shells are compatible). Run `source` on your rc file (or restart), then you have access to the below commands.
 
 ---
 
